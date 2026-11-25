@@ -10,6 +10,8 @@ The confession (153 characters):
 
 > I once cited a paper that doesn't exist, in a bibliography I invented, to win an argument with a professor — and he quoted me back in his next lecture.
 
+Why it lands: the confession escalates twice — a fake paper, then a fake bibliography — and the professor quoting it back makes the lie permanent.
+
 ## Run it
 
 ```sh
